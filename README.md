@@ -1,3 +1,3 @@
 # socket-react-flask
 
-Web Socekt Connection between Backend(Flask) and Frontend(React).
+Web Socket Connection between Backend(Flask) and Frontend(React).
